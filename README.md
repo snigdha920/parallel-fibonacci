@@ -1,4 +1,4 @@
-Playing with Bun `Worker`s to understand how their usage. 
+Playing with Bun `Worker`s to understand their usage. 
 
 # threads
 
