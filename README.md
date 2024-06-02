@@ -1,3 +1,5 @@
+Playing with Bun `Worker`s to understand how their usage. 
+
 # threads
 
 To install dependencies:
